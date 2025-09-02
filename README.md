@@ -49,7 +49,7 @@ pip install streamlit pandas numpy scikit-learn plotly matplotlib seaborn joblib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/property-value-predictor.git
+git clone https://github.com/malikwassay/Property-Value-Predictor.git
 cd property-value-predictor
 ```
 
